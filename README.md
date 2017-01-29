@@ -20,4 +20,8 @@ and
 
 have the same result. 
 
- 
+Make sure the input file is named `retail_25k.dat`. 
+
+Output will be auto-saved in a file named `output_25k.dat`. 
+
+Note: The analysis for retail_25k.dat takes about 260 MB of RAM. 
