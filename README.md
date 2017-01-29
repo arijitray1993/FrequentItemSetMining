@@ -24,4 +24,6 @@ Make sure the input file is named `retail_25k.dat`.
 
 Output will be auto-saved in a file named `output_25k.dat`. 
 
+While the program in running, a number will be displayed that corresponds to the length of the frontier yet to be explored. The closer that is to 0, the closer the analysis is to completion. 
+
 Note: The analysis for retail_25k.dat takes about 260 MB of RAM. 
